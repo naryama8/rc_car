@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="title">
+    <file>Special Features.png</file>
+    <file>90 Left.png</file>
+    <file>90 Right.png</file>
+    <file>180 Left.png</file>
+    <file>180 Right.png</file>
+    <file>Credits.png</file>
+    <file>Title.png</file>
+  </qresource>
+  <qresource prefix="font">
+    <file>Font/Micro5-Regular.ttf</file>
+  </qresource>
+  <qresource prefix="bg">
+    <file>eau rouge darkened.png</file>
+    <file>eau rouge.jpg</file>
+  </qresource>
+</RCC>
