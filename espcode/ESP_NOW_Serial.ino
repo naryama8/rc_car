@@ -2,7 +2,7 @@
 #include <WiFi.h>
 
 // REPLACE WITH THE MAC ADDRESS OF DEVICE B
-uint8_t broadcastAddress[] = {0x68, 0x25, 0xDD, 0xF1, 0xD4, 0x38};
+uint8_t broadcastAddress[] = {0x44, 0x1D, 0x64, 0xF7, 0x57, 0xC4};
 
 // *******************************************************************
 // THE FIX IS HERE: Add __attribute__((packed)) to the struct definition
