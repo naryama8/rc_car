@@ -25,7 +25,7 @@
 }</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <layout class="QVBoxLayout" name="verticalLayout_4">
+   <layout class="QVBoxLayout" name="verticalLayout_2">
     <item>
      <widget class="QLabel" name="label">
       <property name="sizePolicy">
@@ -116,8 +116,8 @@
           </property>
           <property name="sizeHint" stdset="0">
            <size>
-            <width>10</width>
-            <height>10</height>
+            <width>13</width>
+            <height>13</height>
            </size>
           </property>
          </spacer>
@@ -155,7 +155,7 @@
           <property name="sizeHint" stdset="0">
            <size>
             <width>20</width>
-            <height>10</height>
+            <height>13</height>
            </size>
           </property>
          </spacer>
@@ -289,12 +289,12 @@ QPushButton:pressed {
            <enum>Qt::Horizontal</enum>
           </property>
           <property name="sizeType">
-           <enum>QSizePolicy::Maximum</enum>
+           <enum>QSizePolicy::Minimum</enum>
           </property>
           <property name="sizeHint" stdset="0">
            <size>
-            <width>360</width>
-            <height>20</height>
+            <width>380</width>
+            <height>142</height>
            </size>
           </property>
          </spacer>
@@ -309,7 +309,7 @@ QPushButton:pressed {
           </property>
           <property name="maximumSize">
            <size>
-            <width>600</width>
+            <width>480</width>
             <height>16777215</height>
            </size>
           </property>
@@ -349,12 +349,12 @@ QPushButton:pressed {
            <enum>Qt::Horizontal</enum>
           </property>
           <property name="sizeType">
-           <enum>QSizePolicy::Maximum</enum>
+           <enum>QSizePolicy::Minimum</enum>
           </property>
           <property name="sizeHint" stdset="0">
            <size>
-            <width>360</width>
-            <height>20</height>
+            <width>380</width>
+            <height>142</height>
            </size>
           </property>
          </spacer>
